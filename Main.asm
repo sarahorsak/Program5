@@ -27,7 +27,7 @@ Loop   BRnzp Loop
 	ADD R1, R1, R6
 	BRz CheckU
 	BRnp CheckA
-
+	;Test Pull
 	
 	CheckU 
 	LD R1, charU
