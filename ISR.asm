@@ -41,7 +41,7 @@ Empty
 ;Load registers	
 	ST R1, SR1
 	ST R3, SR3
-
+	RTI
 	
 charA	.FILL -65
 charC	.FILL -67
